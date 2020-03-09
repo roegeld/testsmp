@@ -1,0 +1,115 @@
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2018.12.4)  9 MAR 2020 20:12
+ restricted system commands enabled.
+**test1.tex
+(./test1.tex
+LaTeX2e <2017-04-15>
+Lua module: luaotfload-main 2017/01/29 2.80001 OpenType layout system.
+Lua module: lualibs 2017-02-01 2.5 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2017-02-01 2.5 ConTeXt Lua libraries -- extended co
+llection.(using write cache: /home/roegel/.texlive2017/texmf-var/luatex-cache/ge
+neric)(using read cache: /var/lib/texmf/luatex-cache/generic /home/roegel/.texli
+ve2017/texmf-var/luatex-cache/generic)
+luaotfload | conf : Root cache directory is /home/roegel/.texlive2017/texmf-var/
+luatex-cache/generic/names.
+luaotfload | init : Loading fontloader “fontloader-2017-02-11.lua” from kpse
+-resolved path “/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader
+-2017-02-11.lua”.
+Lua-only attribute luaotfload@state = 1
+Lua-only attribute luaotfload@noligature = 2
+Lua-only attribute luaotfload@syllabe = 3
+luaotfload | init : Context OpenType loader version “3.027”
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 4
+luaotfload | conf : Root cache directory is /home/roegel/.texlive2017/texmf-var/
+luatex-cache/generic/names.
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
+.
+luaotfload | main : initialization completed in 0.175 seconds
+Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from /home/roegel/.texlive2017/texm
+f-var/luatex-cache/generic/names/luaotfload-names.luc(save: /home/roegel/.texliv
+e2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-regular.lua)(save: /hom
+e/roegel/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-regular
+.luc))
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/usr/share/texlive/texmf-dist/tex/luatex/luamplib/luamplib.sty
+Package: luamplib 2018/01/04 v2.12.2 mplib package for LuaTeX
+Lua module: luamplib 2018/01/04 2.12.2 Lua package to typeset Metapost with LuaT
+eX's MPLib.
+\mplibstartlineno=\count87
+\everymplibtoks=\toks14
+\everyendmplibtoks=\toks15
+\mplibscratchbox=\box26
+)
+(./test1.aux)
+\openout1 = test1.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 1.
+Module luamplib Info: flushing figure 1 on input line 21
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+(./test1.aux))
+
+Here is how much of LuaTeX's memory you used:
+ 308 strings out of 494480
+ 100000,89155 words of node,token memory allocated
+ 353 words of node memory still in use:
+   2 hlist, 1 vlist, 1 rule, 2 glue, 3 attribute, 45 glue_spec, 3 attribute_list
+, 1 write nodes
+   avail lists: 1:1,2:37,3:38,4:1,5:23,6:7,7:25,8:1,9:18
+ 4505 multiletter control sequences out of 65536+600000
+ 25 fonts using 1345423 bytes
+ 22i,4n,19p,143b,121s stack positions out of 5000i,500n,10000p,200000b,100000s
+</usr/share/texmf/fonts/opentype/public/lm/lmroman12-regular.otf></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
+Output written on test1.pdf (1 page, 11043 bytes).
+
+PDF statistics: 19 PDF objects out of 1000 (max. 8388607)
+ 11 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+
